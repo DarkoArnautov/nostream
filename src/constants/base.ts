@@ -41,6 +41,7 @@ export enum EventTags {
   Pubkey = 'p',
   BlockNumber = 'b',
   Timestamp = 't',
+  ALT ='alt',
   ORIGINAL = 'o',
   //  Multicast = 'm',
   Deduplication = 'd',
